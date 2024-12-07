@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324882368247",
+    "project_id": "epic-the-firebase",
+    "storage_bucket": "epic-the-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324882368247:android:2b038c5d79d0f6b9e5b5f2",
+        "android_client_info": {
+          "package_name": "dap.franco.epic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUtNHi30mLqyZPlvjF5-VrpFLVuUwoDVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
